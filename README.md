@@ -5,7 +5,9 @@ https://jd-blog-saver.herokuapp.com/
 
 I worked on this project throughout most of the course implementing functionality as we went. The course material would teach us basic concepts through a lesson project, we would then need to be able to take those concepts covered and apply them to this separate project. This app employs the MERN stack: MongoDB, Express.js, React.js, and Node.js languages. 
 
-&lt;blog-list app&gt;
+While the course introduced us to many ways to style our app, with this iteration I wanted to use SCASS as that was not covered in the course.
+
+<strong>&lt;blog-list app&gt;</strong>
   
   Use this app to list your favorite blogs/webpages.<br />
   Only logged in users can submit new entries.<br />
