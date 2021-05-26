@@ -1,6 +1,8 @@
 # blog-app
 Final project submission for the University of Helsinki Full Stack Open MOOC 2020
 
+https://jd-blog-saver.herokuapp.com/
+
 I worked on this project throughout most of the course implementing functionality as we went. The course material would teach us basic concepts through a lesson project, we would then need to be able to take those concepts covered and apply them to this separate project. This app employs the MERN stack: MongoDB, Express.js, React.js, and Node.js languages. 
 
 <blog-list app>
